@@ -2,7 +2,7 @@
 
 YouTubeTV es un script de Python hecho para automatizar el uso de la computadora de un paciente con Alzheimer.
 
-Quien cuidaba a esta persona necesitaba una forma sencilla de para que el paciente pueda pasar por si sola entre sus streams favoritos de youtube, que es para lo unico que usaba su computadora.
+Quien cuida a esta persona necesitaba una forma sencilla para que pueda pasar por si sola entre sus streams favoritos de youtube, que es para lo unico que usaba su computadora.
 
 ## Utilizacion
 
